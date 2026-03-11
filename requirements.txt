@@ -1,2 +1,6 @@
+langchain_groq
+langchain_community
+langchain_core
+pypdf
+sentence_transformers
 streamlit
-ipykernel
